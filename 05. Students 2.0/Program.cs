@@ -35,7 +35,7 @@
             }
             else
             {
-                students.Add(new Student(firstName, lastName, age, homeTown));
+                students.Add(currentStudent);
             }
                 input = Console.ReadLine().Split().ToArray();
         }
