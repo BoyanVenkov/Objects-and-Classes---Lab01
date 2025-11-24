@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36717.8 d17.14
+VisualStudioVersion = 17.14.36717.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Randomize Words", "01. Randomize Words\01. Randomize Words.csproj", "{5E601545-7F41-439C-B8A3-73537B0CDD85}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Students 2.0", "05. Students 2.0\05. Students 2.0.csproj", "{2F061BCC-B614-4C7F-962E-F84C18E7DBE3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Vehicle Catalogue", "07. Vehicle Catalogue\07. Vehicle Catalogue.csproj", "{067BAD97-086E-4115-BE46-62355C273D4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Store Boxes", "06. Store Boxes\06. Store Boxes.csproj", "{82B7ACF8-C58E-460E-BD2D-17FD1B60646F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{067BAD97-086E-4115-BE46-62355C273D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{067BAD97-086E-4115-BE46-62355C273D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{067BAD97-086E-4115-BE46-62355C273D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82B7ACF8-C58E-460E-BD2D-17FD1B60646F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B7ACF8-C58E-460E-BD2D-17FD1B60646F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B7ACF8-C58E-460E-BD2D-17FD1B60646F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B7ACF8-C58E-460E-BD2D-17FD1B60646F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
